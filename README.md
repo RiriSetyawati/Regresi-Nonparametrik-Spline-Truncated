@@ -1,3 +1,3 @@
 # Regresi-Nonparametrik-Spline-Truncated
 
-# PEMODELAN PADA INDIKATOR PENGUKURAN INDEKS KHUSUS PENANGANAN STUNTING MENGGUNAKAN REGRESI NONPARAMETRIK SPLINE TRUNCATED
+# Pemodelan Pada Indikator Pengukuran Indeks Khusus Penanganan Stunting Menggunakan Regresi Nonparametrik Spline Truncated
